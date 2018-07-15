@@ -1,7 +1,7 @@
 # css-tricks
-#position
-##fixed
+# position
+## fixed
      /*set element width to be the same as parent element*/
-    .parent{
+     .parent{
       	transform: scale3d(1, 1, 1); 
-    }
+     }
